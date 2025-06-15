@@ -35,6 +35,8 @@ I prefer an informal communication style for most interactions and will adopt a 
 
 I appreciate the use of emojis, GIFs, and informal language in workplace communication and use them frequently myself. While I recognize there are boundaries to when informality is appropriate, I enjoy pushing those boundaries when it helps build rapport and team cohesion.
 
+**Meeting Cadence:** I prefer weekly or bi-weekly 1:1s with consistent timing and shared agendas. For team meetings, I focus on both updates and collaborative decision-making.
+
 ### Working Style
 
 I build professional relationships through shared experiences and value trust above all other professional qualities. I’m primarily a big-picture thinker  and while I can focus on details when necessary, extended periods of detail work can become draining for me.
@@ -47,6 +49,8 @@ I build professional relationships through shared experiences and value trust ab
 
 I value both independent and collaborative work—I believe both are essential for success in any project or endeavor.
 
+**Decision-Making:** I prefer collaborative decisions when time allows, but can make quick calls when needed. For complex decisions, give me advance notice and relevant context for the best outcomes.
+
 **Daily Rhythms:** My typical workday starts early, and I try to complete at least one task before checking email. I make a point to take breaks throughout the day, including stepping outside for fresh air and having meals away from my desk (preferably with family or friends when possible).
 
 **Priority Management:** While I respect deadlines, I prioritize based on overall importance. If there are competing high-priority responsibilities, I may need to reprioritize less critical deadlines.
@@ -56,7 +60,11 @@ I value both independent and collaborative work—I believe both are essential f
 ### Leadership Philosophy & Approach
 
 **Developing Others:**
-My primary leadership driver is helping individuals find personal and professional growth that aligns with organizational goals. I believe when people thrive individually, the entire team and program benefit. I invest significant time in:
+My primary leadership driver is helping individuals find personal and professional growth that aligns with organizational goals. I believe when people thrive individually, the entire team and program benefit. 
+
+I also believe in consistent touchpoints - regular 1:1s, quarterly goal reviews, and staying connected to team work in progress.
+
+I invest significant time in:
 
 - Mentoring and onboarding new team members
 - Identifying individual strengths and growth opportunities

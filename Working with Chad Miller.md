@@ -31,9 +31,7 @@ For the most effective communication with me, here’s my preference hierarchy b
 |Teams/Chat  |Regular updates, questions, brief information         |Within 2-4 hours               |
 |Email       |Non-urgent, detailed information, formal documentation|Within 24+ hours               |
 
-I prefer an informal communication style for most interactions and will adopt a formal tone when the situation requires it. I’m comfortable with both scheduled meetings and impromptu conversations, and appreciate staying focused on specific outcomes while also building and maintaining social interactions.
-
-I appreciate the use of emojis, GIFs, and informal language in workplace communication and use them frequently myself. While I recognize there are boundaries to when informality is appropriate, I enjoy pushing those boundaries when it helps build rapport and team cohesion.
+**Communication Style:** I prefer informal communication for most interactions, using emojis and casual language to build rapport, while adapting to formal tones when situations require it. I'm comfortable with both scheduled and impromptu conversations, always aiming for specific outcomes while maintaining strong social connections. I enjoy pushing the boundaries of workplace informality when it helps strengthen team cohesion.
 
 **Meeting Cadence:** I prefer weekly or bi-weekly 1:1s with consistent timing and shared agendas. For team meetings, I focus on both updates and collaborative decision-making.
 

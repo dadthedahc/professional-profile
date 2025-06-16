@@ -87,7 +87,7 @@ I excel at breaking down multifaceted challenges by first understanding the desi
 My experience managing matrixed organizations has taught me to influence without direct authority. I build consensus through:
 
 - Clear communication of shared goals and individual contributions to broader success
-- ￼Facilitating alignment across diverse stakeholder groups
+- Facilitating alignment across diverse stakeholder groups
 
 **Risk Assessment:**
 I proactively identify and address potential issues before they impact program execution. My preference is to surface concerns early—even when unpopular—rather than allow problems to compound. I view thorough risk discussion as essential to informed decision-making, not as obstacles to progress.
